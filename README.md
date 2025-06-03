@@ -35,6 +35,12 @@
 
 ### 📈 GitHub Stats
 
-![Koustav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=koustav28&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=koustav28&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=koustav28&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=koustav28&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=koustav28&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koustav28&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
