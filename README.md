@@ -7,7 +7,7 @@
 ### 🧠 About Me
 
 - 🔨 Skilled in building responsive, accessible, and interactive web applications  
-- 🌱 Currently deepening my React and UI/UX knowledge  
+- 🌱 Currently deepening my JavaScript and React knowledge  
 - 🎯 Focused on delivering clean, efficient, and user-first code  
 - 🌐 Always exploring new tools in frontend development  
 
@@ -35,12 +35,14 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=koustav28&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<p p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=koustav28&theme=react-dark&bg_color=1A1B27&hide_border=true" alt="GitHub activity graph" />
 </p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=koustav28&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koustav28&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
